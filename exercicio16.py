@@ -19,3 +19,4 @@ if (valor1 < valor2 + valor3) and (valor2 < valor1 + valor3) and (valor3 < valor
 
 else:
     print("Os valores informados não formam um triângulo.")
+
